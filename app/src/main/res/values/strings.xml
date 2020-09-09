@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">KT_AutoComplete</string>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>Thailand</item>
+        <item>China</item>
+    </string-array>
 </resources>
